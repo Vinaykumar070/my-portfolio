@@ -9,7 +9,7 @@ const Hero = () => {
     <div className="pb-20 pt-36">
       {/**
        *  UI: Spotlights
-       *  Link: https://ui.aceternity.com/components/spotlight
+       *  Link: https:/ternity.com/components/spotlight
        */}
       <div>
         <Spotlight
@@ -52,12 +52,12 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Transforming Concepts into Seamless"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+            Hi! I&apos;m Vinaykumar, a Frontend Developer based in Bangalore.
           </p>
 
           <a href="#about">
